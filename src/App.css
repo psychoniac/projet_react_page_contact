@@ -14,3 +14,8 @@
     margin: 0 auto;
     padding: 0 1rem;
 }
+.logo {
+    display: inline-block;
+    font-size: 1.5rem;
+    color: rgb(102, 41, 159);
+}

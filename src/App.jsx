@@ -1,4 +1,5 @@
 import './App.css';
+import Header from './composants/header/Header';
 import Naviguation from './composants/naviguation/Naviguation';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
         <>
             <div className='contener'>
                 <Naviguation />
+                <Header />
             </div>
         </>
     );
