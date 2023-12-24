@@ -1,0 +1,19 @@
+.naviguation {
+    width: 100%;
+    padding: 2rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(102, 41, 159);
+}
+.naviguation ul {
+    display: flex;
+    align-items: center;
+}
+.naviguation ul li a {
+    color: #333;
+    font-weight: bold;
+}
+.naviguation ul li a:hover {
+    color: rgb(102, 41, 159);
+}
